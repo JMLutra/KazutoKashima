@@ -2,6 +2,10 @@
 
 I'm a 17-year-old Backend, aspiring software developer, and network engineer (currently studying for the CCNA 200-301) <br>
 
+<br>
+
+> Don't let the world rule you, you need to rule the world.
+<br>
 
 - 🔭 I’m currently working on multiple projects:
 - - Verility (Live Chat [App](https://verility.kazs.tech))
