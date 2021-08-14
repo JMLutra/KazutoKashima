@@ -21,5 +21,6 @@ I'm a 17-year-old Backend, aspiring software developer, and network engineer (cu
 - 📫 How to reach me: 
 - - Email: project-red-alice@outlook.com
 - - website: [Click here 🕸️](https://phoenix.kazs.tech)
+- - Discord: [Join here!](https://discord.gg/SGZpSzg5Ua)
 - - Insta: @kazkashima
 - 😄 Pronouns: He/Him/They/Them
